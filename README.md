@@ -10,7 +10,6 @@ Happy to work remote and in office!
 
 <h3>Here's my CV!</h3>
 <p>https://github.com/sgs22/sgs22/blob/main/cv_screenshot.png</p>
-![Samuel_Smith_CV](cv_screenshot.png)
 <p align="center"><img width="30%" src="https://raw.githubusercontent.com/sgs22/sgs22/main/cv_screenshot.png" alt="lang image here" /></p>
 
 - 🔭 I’m currently working on needapc django project
