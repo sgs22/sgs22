@@ -15,7 +15,7 @@ Happy to work remote and in office!
 
 <h3>Here's my CV!</h3>
 <p>https://github.com/sgs22/sgs22/blob/main/Samuel_Smith_-_Full_Stack_Developer_(Graduate).pdf</p>
-<p align="center"><img width="50%" style="border-image: 5px #555" src="https://raw.githubusercontent.com/sgs22/sgs22/main/cv_screenshot.png" alt="lang image here" /></p>
+<p align="center"><img width="50%" border="1" src="https://raw.githubusercontent.com/sgs22/sgs22/main/cv_screenshot.png" alt="lang image here" /></p>
 <!--
 **sgs22/sgs22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
