@@ -1,4 +1,10 @@
-### Hi there I'm Sam 👋
+<h1 align="center">
+Hi there I'm Sam 👋
+</h1>
+
+### I'm an aspiring Fullstack dev, also enjoy computer engineering.
+### Currently looking for work in London, UK
+### Happy to work remote and in office!
 
 - 🔭 I’m currently working on needapc django project
 - 🌱 I’m currently learning: python, django
