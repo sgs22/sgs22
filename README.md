@@ -8,15 +8,14 @@ Currently looking for work in London, UK <br>
 Happy to work remote and in office!
 </p>
 
-<h3>Here's my CV!</h3>
-<p>https://github.com/sgs22/sgs22/blob/main/cv_screenshot.png</p>
-<p align="center"><img width="30%" src="https://raw.githubusercontent.com/sgs22/sgs22/main/cv_screenshot.png" alt="lang image here" /></p>
-
 - 🔭 I’m currently working on needapc django project
 - 🌱 I’m currently learning: python, django
 - ⚡ Looking to learn React once i get the hang of the other two
 - 👯 I’m looking to collaborate on an open source project
 
+<h3>Here's my CV!</h3>
+<p>https://github.com/sgs22/sgs22/blob/main/cv_screenshot.png</p>
+<p align="center"><img width="50%" src="https://raw.githubusercontent.com/sgs22/sgs22/main/cv_screenshot.png" alt="lang image here" /></p>
 <!--
 **sgs22/sgs22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
