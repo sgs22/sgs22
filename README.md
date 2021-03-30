@@ -3,8 +3,8 @@ Hi there I'm Sam 👋
 </h1>
 
 <p>
-I'm an aspiring Fullstack dev, also enjoy computer engineering. \n
-Currently looking for work in London, UK
+I'm an aspiring Fullstack dev, also enjoy computer engineering.<br>
+Currently looking for work in London, UK <br>
 Happy to work remote and in office!
 </p>
 
