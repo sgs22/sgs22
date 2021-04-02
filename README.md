@@ -10,7 +10,7 @@ Happy to work remote and in office!
 
 - 🔭 I’m currently working on needapc django project
 - 🌱 I’m currently learning: python, django
-- ⚡ Looking to learn React once i get the hang of the other two
+- ⚡ Looking to learn React once i get the hang of the other two, currently using bootstap as a CSS framework
 - 👯 I’m looking to collaborate on an open source project
 
 <h3>Here's my CV!</h3>
