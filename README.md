@@ -4,11 +4,11 @@ Hi there I'm Sam 👋
 
 <p>
 I'm an aspiring Fullstack dev, also enjoy computer engineering.<br>
-Currently looking for work in London, UK <br>
+Currently looking for work in the UK <br>
 Happy to work remote and in office!
 </p>
 
-- 🔭 I’m currently working on needapc django project
+- 🔭 I’m currently working on the needapc django project
 - 🌱 I’m currently learning: python, django
 - ⚡ Looking to learn React once i get the hang of the other two, currently using bootstap as a CSS framework
 - 👯 I’m looking to collaborate on an open source project
