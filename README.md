@@ -2,7 +2,7 @@
 Hi there I'm Sam 👋
 </h1>
 
-<h2> Latest Site: <a href="www.desktopmini.co.uk" target="_blank">desktopmini.co.uk</a></h2>
+<h2> Latest Site: <a>desktopmini.co.uk</a></h2>
 
 <p>
 I'm an aspiring Software Engineer, also enjoy computer engineering.<br>
