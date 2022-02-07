@@ -5,7 +5,7 @@ Hi there I'm Sam 👋
 <h2> Latest Site: www.desktopmini.co.uk</h2>
 
 <p>
-I'm an aspiring Software Engineer, also enjoy computer engineering.<br>
+I'm a junior dev, also enjoy computer engineering.<br>
 Currently looking for work in the UK <br>
 Happy to work remote and in office
 </p>
