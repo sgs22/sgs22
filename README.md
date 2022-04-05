@@ -2,12 +2,13 @@
 Hi there I'm Sam 👋
 </h1>
 
-<h2> Latest Site: www.desktopmini.co.uk</h2>
+<h2> Latest Web app: www.desktopmini.co.uk</h2>
 
 <p>
-I'm a junior dev, also enjoy computer engineering.<br>
-Currently looking for work in the UK <br>
-Happy to work remote and in office
+I'm a software developer currently working on API integration, also enjoy computer engineering.<br>
+<br>
+<h2> Projects </h2>
+<h3> 3D Virtual Museum (Apple Hardware History): <a href"http://users.sussex.ac.uk/~sgs22/3dapp/assignment/index.php"> Hosted on Sussex Web Server</a></h3>
 </p>
 
 - 🔭 I’m currently working on the needapc django project, swift
