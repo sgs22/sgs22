@@ -8,7 +8,8 @@ Hi there I'm Sam 👋
 I'm a software developer currently working on API integration, also enjoy computer engineering.<br>
 <br>
 <h2> Projects </h2>
-<h3> 3D Virtual Museum (Apple Hardware History): <a href"http://users.sussex.ac.uk/~sgs22/3dapp/assignment/index.php"> Hosted on Sussex Web Server</a></h3>
+<h3> 3D Virtual Museum (Apple Hardware History): </h3>
+<a href"http://users.sussex.ac.uk/~sgs22/3dapp/assignment/index.php"> Hosted on Sussex Web Server</a>
 </p>
 
 - 🔭 I’m currently working on the needapc django project, swift
