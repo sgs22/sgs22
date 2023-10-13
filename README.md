@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there I'm Sam, please note this is my personal github not work related
+Hi there I'm Sam, please note this is my personal github
 </h1>
 
 <h2> Latest Web app: www.desktopmini.co.uk</h2>
