@@ -7,7 +7,7 @@ Sam, Fullstack Software developer for OWNI.
 I'm a software developer currently working on API integration, also enjoy computer engineering, cinema, and snowboarding!<br>
 <br>
 <h2> Latest Projects </h2>
-<h3> Latest personal live app: <a href="www.desktopmini.co.uk">desktopmini.co.uk</a> </h3>
+<h3> Latest personal live app: <a target="_blank" href="www.desktopmini.co.uk">desktopmini.co.uk</a> </h3>
 </p>
 
 - I’m currently working on the needapc django project, swift
