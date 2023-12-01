@@ -2,8 +2,7 @@
 Sam, Fullstack Software developer for OWNI.
 </h1>
 
-<h2>This is my personal github:</h2>
-<h2>Visit: <a href="https://github.com/samuel-g-smith">Here</a> for my work github</h2>
+<h2>This is my personal github: <a href="https://github.com/samuel-g-smith">Here</a> for my work github</h2>
 <p>
 I'm a software developer currently working on API integration, also enjoy computer engineering, cinema, and snowboarding!<br>
 <br>
